@@ -223,3 +223,4 @@ export const HistoryList: React.FC<Props> = ({
 };
 //histoylist compo updated
 /// next needed some store settings 
+/// next what else
